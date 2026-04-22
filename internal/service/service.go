@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/Yandex-Practicum/go1fl-sprint6-final/pkg/morse"
+	"github.com/amat-andre/Server/pkg/morse"
 )
 
 var errInput = errors.New("input value error")
